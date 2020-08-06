@@ -19,14 +19,17 @@
 
 ---
 
-# Mac OS软件整理
+# Mac OS
 
 ## 1. 系统、操作、配置
-- [ ] Magnet:窗口整理、组织，AppStore
-- [ ] DaisyDisk：分析磁盘文件垃圾、占用
-- [x] Karabiner-Element：键盘定制
-- 磁盘镜像
+
+- DIY
+    - [ ] [Hammerspoon](http://www.hammerspoon.org/)
+    - [x] Karabiner-Element：键盘定制
+    - [ ] Magnet:窗口整理、组织，AppStore
+- 磁盘镜像,文件
     - [ ] Tuxera NTFS
+    - [ ] DaisyDisk：分析磁盘文件垃圾、占用
 - 压缩解压
     - [x] Bandizip
     - [ ] The Unarchiver
@@ -35,6 +38,7 @@
     - [ ] [CleanMyMac]()
 - 系统状态显示
     - [ ] [iStat Menu]()
+
 ## 2. 工具、效率
 - 文献管理和阅读
     - [ ] [Mendeley Desktop](https://www.mendeley.com/download-desktop-new)
@@ -98,7 +102,7 @@
     - [ ] [ShadowsocksR](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/tag/4.7.0)
 ---
 
-# Windows软件整理
+# Windows
 
 ## 1. 系统、操作、配置
 - 工具集：
@@ -159,7 +163,7 @@
 
 
 ---
-# Linux软件整理
+# Linux
 一、系统、磁盘、文件
 二、效率、生产力、开发
 - [Joplin](https://github.com/laurent22/joplin)笔记软件，笔记编辑+笔记管理+第三方同步
