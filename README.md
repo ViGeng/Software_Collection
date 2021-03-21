@@ -6,7 +6,6 @@
 
 
 ---
-
 # 在线工具或小程序
 - 密码管理
     - [x] LastPass
@@ -18,30 +17,40 @@
 
 
 ---
-
-# Mac OS
+# Mac OS软件整理
 
 ## 1. 系统、操作、配置
-
+- [ ] Magnet:窗口整理、组织，AppStore
+- [ ] DaisyDisk：分析磁盘文件垃圾、占用
+- [x] Karabiner-Element：键盘定制
 - DIY
     - [ ] [Hammerspoon](http://www.hammerspoon.org/)
-    - [x] Karabiner-Element：键盘定制
-    - [ ] Magnet:窗口整理、组织，AppStore
-- 磁盘镜像,文件
+- 磁盘镜像
     - [ ] Tuxera NTFS
-    - [ ] DaisyDisk：分析磁盘文件垃圾、占用
+    - [ ] SyncTime(文件同步工具)
 - 压缩解压
     - [x] Bandizip
     - [ ] The Unarchiver
 - 系统清理,软件卸载
     - [ ] [腾讯柠檬](https://lemon.qq.com/)
     - [ ] [CleanMyMac]()
-- 系统状态显示
-    - [ ] [iStat Menu]()
-
+- 信息状态显示
+    - [x] [iStat Menu]():操作系统的一切状态
+- 辅助操作
+    - [ ] BetterTouchTool
+        - 自定义输入设备，包括触控板、鼠标、键盘灯
+        - 手势等
+        - 窗口吸附和管理等
+    - [x] [Mos](https://github.com/Caldis/Mos):鼠标滚轮滚动平滑工具
+    - [x] [Vimari](https://github.com/televator-apps/vimari): safari vim 导航插件
 ## 2. 工具、效率
+
 - 文献管理和阅读
     - [ ] [Mendeley Desktop](https://www.mendeley.com/download-desktop-new)
+    - [ ] [Mathpix](https://mathpix.com/) 公式OCR识别
+    - [ ] [Bob](https://github.com/ripperhe/Bob) 集成翻译、OCR在线API
+- 查询
+    - [x] CheatSheet: 查询当前可用快捷键
 - PDF阅读和编辑
     - [ ] [PDF Expert]()
 - Office suit
@@ -102,7 +111,7 @@
     - [ ] [ShadowsocksR](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/tag/4.7.0)
 ---
 
-# Windows
+# Windows软件整理
 
 ## 1. 系统、操作、配置
 - 工具集：
@@ -163,7 +172,7 @@
 
 
 ---
-# Linux
+# Linux软件整理
 一、系统、磁盘、文件
 二、效率、生产力、开发
 - [Joplin](https://github.com/laurent22/joplin)笔记软件，笔记编辑+笔记管理+第三方同步
